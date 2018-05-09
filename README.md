@@ -1,5 +1,6 @@
 # accepted
-Simple job queue with an easy to use HTTP interface. 
+Simple job queue with an easy to use HTTP interface. At the end of a day,
+it's all about queues, so let's make more of them.
 
 ## API
 ### Enqueue jobs
